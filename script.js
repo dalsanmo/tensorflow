@@ -1,4 +1,4 @@
-const modelURL = "https://teachablemachine.withgoogle.com/models/YOUR_MODEL_URL/model.json"; 
+const modelURL = "https://teachablemachine.withgoogle.com/models/u57-pgdf9/"; 
 
 let model, webcam;
 async function loadModel() {
